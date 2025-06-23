@@ -17,10 +17,9 @@ This repository contains code examples and explanations for the Java Collections
 
 ## 💻 Code Language
 
-- Java (with comments and explanations in Marathi)
+- Java 
 
 ## 🎯 Target Audience
 
 - Beginners learning Java
-- Marathi-speaking students and developers
 - Anyone preparing for interviews or improving Java collection skills
